@@ -27,8 +27,8 @@ A simple backend system to help users manage their personal finances by tracking
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personal_finance_manager.git
-   cd personal_finance_manager
+   git clone https://github.com/joshitapachar/financeManager.git
+   cd financeManager
    ```
 
 2. Create a virtual environment and activate it:
